@@ -1,4 +1,5 @@
 = Compiler et construire ses applications avec maven
+= BASTIEN BALMES ET LEO FALETTI
 Jean-Michel Bruel <jbruel@gmail.com>
 v22.1, 2022-09-04 : BUT 2 version
 //v1, 2022-02-20 : Initial draft
