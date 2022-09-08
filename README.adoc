@@ -125,7 +125,7 @@ image::success2.png["Ca run!", width=80%]
 . Cherchez dans la documentation {maven} les commandes permettant de générer une documentation javadoc, et les adaptions à faire sur votre projet (et éventuellement `pom.xml`) afin que {maven} génère la documentation automatiquement pour vous.
 . Documentez votre projet: remplacez le contenu de ce fichier README.doc par les instructions de compilation, de documentation et de lancement de votre projet. 
 
-== Documentation du projet
+== Documentation du projet (Compte-rendu)
 
 === Compiler le projet :
 
